@@ -1,3 +1,10 @@
+---
+title: README
+date_created: 2024-07-08T21:33:32
+date_modified: 2024-07-08T22:06:56
+draft: false
+---
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming

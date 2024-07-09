@@ -1,3 +1,9 @@
+---
+title: CODE_OF_CONDUCT
+date_created: 2024-07-08T21:33:32
+date_modified: 2024-07-08T22:07:05
+draft: false
+---
 # Citizen Code of Conduct
 
 ## 1. Purpose
